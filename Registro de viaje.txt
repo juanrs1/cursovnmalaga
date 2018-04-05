@@ -1,2 +1,3 @@
-﻿Información del registro de viaje. 
-Edicion desde master.
+﻿Información del registro de viaje.
+Segunda edicion.
+
