@@ -1,1 +1,1 @@
-file 2 editado.
+file 2 editado nuevo.
