@@ -1,2 +1,2 @@
 archivo editado
-archivo editado rama master.
+archivo editado en rama1_viaje
